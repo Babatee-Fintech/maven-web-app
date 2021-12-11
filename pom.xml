@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <urlhttp://18.116.66.141:8000/repository/td-app-release/></url>
+	      <url>http://18.116.66.141:8000/repository/td-app-release/></url>
 	    </repository>
 	    
 	    <snapshotRepository>
